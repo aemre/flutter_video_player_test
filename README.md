@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+online demo:
+https://aemre.github.io/flutter_player.github.io/#/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
